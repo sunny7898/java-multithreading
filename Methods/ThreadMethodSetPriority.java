@@ -1,3 +1,5 @@
+package Methods;
+
 public class ThreadMethodSetPriority extends Thread{
 
     public ThreadMethodSetPriority(String threadName) {

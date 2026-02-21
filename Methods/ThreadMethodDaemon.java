@@ -1,3 +1,5 @@
+package Methods;
+
 public class ThreadMethodDaemon extends Thread{
     @Override
     public void run() {

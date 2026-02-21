@@ -1,3 +1,5 @@
+package Methods;
+
 public class ThreadMethodInterrupt extends Thread {
     @Override
     public void run() {

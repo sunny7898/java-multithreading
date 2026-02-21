@@ -1,3 +1,5 @@
+package Methods;
+
 public class ThreadMethodYield extends Thread{
     @Override
     public void run() {
